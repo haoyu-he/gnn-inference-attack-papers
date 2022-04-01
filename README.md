@@ -9,7 +9,6 @@
 - \[USENIX'22\] **ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models**
     
     *Image*
-    
     - Membership inference
     - Model inversion
     - Attribute inference
