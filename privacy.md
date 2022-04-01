@@ -2,8 +2,6 @@
 
 ### 2022
 
-#### **S&P**
-
 - \[S&P'22\] **LinkTeller: Recovering Private Edges from Graph Neural Networks via Influence Analysis**
     - Edge inference attack
 
