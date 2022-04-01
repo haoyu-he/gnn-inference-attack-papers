@@ -1,6 +1,6 @@
 # Privacy for Graph Neural Networks
 
-### 2022
+## 2022
 
 **S&P**
 
