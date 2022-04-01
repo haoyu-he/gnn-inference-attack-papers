@@ -7,12 +7,18 @@
     - Known information: node features
     - Black box
 - \[USENIX'22\] **ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models**
-    
-    *Image*
     - Membership inference
     - Model inversion
     - Attribute inference
     - Model stealing
+    - Task: image
+- \[USENIX'22\] **Inference Attacks Against Graph Neural Networks**
+    - Property inference attack
+    - Subgraph inference attack
+    - Graph reconstruction attack
+    - Known information: graph embeddings, auxiliary dataset
+    - Black box
+    - Task: graph embedding
 
 ### 2021
 
