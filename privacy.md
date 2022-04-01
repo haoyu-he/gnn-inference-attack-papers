@@ -13,7 +13,6 @@
     - Model inversion - edge
     - 8 attacks: node features/partial graph/shadow dataset are known or not
     - Black box
-
 - \[IJCAI'21\] **GraphMI: Extracting Private Graph Data from Graph Neural Networks**
     - Model inversion - edge
     - Known information: node features
