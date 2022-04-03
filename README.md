@@ -8,12 +8,14 @@
     - Known information: node features
     - Black box
 - \[USENIX'22\] **ML-Doctor: Holistic Risk Assessment of Inference Attacks Against Machine Learning Models**
+    \[[link](https://github.com/liuyugeng/ML-Doctor)\]
     - Membership inference
     - Model inversion
     - Attribute inference
     - Model stealing
     - Task: image
 - \[USENIX'22\] **Inference Attacks Against Graph Neural Networks**
+    \[[link](https://github.com/Zhangzhk0819/GNN-Embedding-Leaks)\]
     - Property inference attack
     - Subgraph inference attack
     - Graph reconstruction attack
@@ -28,6 +30,7 @@
     - Known information: node features
     - White box
 - \[USENIX'21\] **Stealing Links from Graph Neural Networks**
+    \[[link](https://github.com/xinleihe/link_stealing_attack)\]
     - Model inversion - edge
     - 8 attacks: node features/partial graph/shadow dataset are known or not
     - Black box
