@@ -2,7 +2,8 @@
 
 ### 2022
 
-- \[S&P'22\] **LinkTeller: Recovering Private Edges from Graph Neural Networks via Influence Analysis** \[[link](https://github.com/AI-secure/LinkTeller)\]
+- \[S&P'22\] **LinkTeller: Recovering Private Edges from Graph Neural Networks via Influence Analysis** 
+    \[[link](https://github.com/AI-secure/LinkTeller)\]
     - Model inversion - edge
     - Known information: node features
     - Black box
