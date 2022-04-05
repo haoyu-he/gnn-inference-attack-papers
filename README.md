@@ -26,6 +26,7 @@
 ### 2021
 
 - \[IJCAI'21\] **GraphMI: Extracting Private Graph Data from Graph Neural Networks**
+    \[[link](https://github.com/zaixizhang/GraphMI)\]
     - Model inversion - edge
     - Known information: node features
     - White box
